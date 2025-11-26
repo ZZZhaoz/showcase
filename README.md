@@ -85,17 +85,17 @@ Procedural Sun with animated convection (Perlin noise)
 
 Earth layers:
 
-oceans, coasts, land, mountains, deserts, snow, polar caps
+- oceans, coasts, land, mountains, deserts, snow, polar caps
 
-procedural clouds
+- procedural clouds
 
-cloud shadowing
+- cloud shadowing
 
-Bump-mapped Moon terrain
+- Bump-mapped Moon terrain
 
-Fully procedural multi-octave starfield background
+- Fully procedural multi-octave starfield background
 
-Unified physically-inspired lighting model
+- Unified physically-inspired lighting model
 
 ### 3. model.glsl – Orbital Transform System
 Transformation hierarchy:
