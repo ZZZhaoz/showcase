@@ -1,0 +1,6 @@
+[submodule "Code/glfw"]
+	path = Code/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "Code/eigen"]
+	path = Code/eigen
+	url = https://gitlab.com/libeigen/eigen.git
