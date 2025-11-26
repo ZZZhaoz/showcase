@@ -91,8 +91,6 @@ procedural clouds
 
 cloud shadowing
 
-night-time city lights
-
 Bump-mapped Moon terrain
 
 Fully procedural multi-octave starfield background
