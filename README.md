@@ -1,7 +1,10 @@
 # The Earth–Moon–Sun Dance  
 **CSC317 Fall 2025 – Showcase Extra Credit**
 
----
+## Demo
+
+https://github.com/user-attachments/assets/03aa1f8d-8cd2-461a-a124-7e154456e778
+
 
 ## Instructions
 
