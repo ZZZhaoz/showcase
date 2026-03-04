@@ -3,14 +3,6 @@
 
 ---
 
-## Personal Information  
-**Full Name:** Zihan Zhao  
-**UtorID:** zhaoz188  
-**Student Number:** 1010128274  
-**Assignment Augmented:** Assignment 6 (Shader Pipeline)
-
----
-
 ## Instructions
 
 ### 0. Clone the Repository (with Submodules)
